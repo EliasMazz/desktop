@@ -1,0 +1,3 @@
+[USUARIO]
+LOGIN=admin
+SENHA=admin
